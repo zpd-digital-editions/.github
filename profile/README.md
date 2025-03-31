@@ -1,7 +1,7 @@
 # Welcome to the ZPD Digital Editions Repository 👋
 ## DACHS research group proudly presents
 
-![giphy](https://github.com/user-attachments/assets/91358c3d-1d4a-4904-956d-f640ac384753)
+<!-- ![giphy](https://github.com/user-attachments/assets/91358c3d-1d4a-4904-956d-f640ac384753) -->
 <!--
 
 **Here are some ideas to get you started:**
